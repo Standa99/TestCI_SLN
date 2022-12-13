@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "WwAph7/zeZFVJJy608MPRXbNU9jnN7dimJmkMzUpMXk=",
+  "Source": "TestCI_app_SLN",
+  "BasePath": "_content/TestCI_app_SLN",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestCI_app_SLN\\wwwroot",
+      "Source": "TestCI_app_SLN",
+      "ContentRoot": "C:\\Users\\svehlik\\greenfox\\TestCI_SLN\\TestCI_app_SLN\\wwwroot\\",
+      "BasePath": "_content/TestCI_app_SLN",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
